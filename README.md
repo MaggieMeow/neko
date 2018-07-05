@@ -1,7 +1,11 @@
 # neko
 
+This is a supplementary material for [our publication to SIGIR ECOM'18 workshop](), where we redefine the classic product categorization task as a sequence generation task. 
 
+This repository contains the following:
 
+ - [PDF draft of the paper]()
+ - [Data Exploratory Experiments]() in a Jupyter Notebook
 
 
 Cite
