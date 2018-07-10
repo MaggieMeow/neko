@@ -1,6 +1,6 @@
 # neko
 
-This is a supplementary material for [our publication to SIGIR ECOM'18 workshop](), where we redefine the classic product categorization task as a sequence generation task. 
+This is a supplementary material for [our publication to SIGIR ECOM'18 workshop](https://sigir-ecom.github.io/ecom18DCPapers/ecom18DC_paper_7.pdf), where we redefine the classic product categorization task as a sequence generation task. 
 
 This repository contains the following:
 
