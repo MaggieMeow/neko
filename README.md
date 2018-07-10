@@ -17,10 +17,9 @@ Our system achieved a balanced F-score of 0.8256, while the organizers’ baseli
 Cite
 ====
 
-
-```
-Yundi Maggie Li, Liling Tan, Stanley Kok and Ewa Szymanska. 2018. Unconstrained Production Categorization with Sequence-to-Sequence Models. In Proceedings of SIGIR 2018 Workshop on eCommerce (ECOM 18).
-```
+> Yundi Maggie Li, Liling Tan, Stanley Kok and Ewa Szymanska. 2018. 
+>  Unconstrained Production Categorization with Sequence-to-Sequence Models. 
+> In Proceedings of SIGIR 2018 Workshop on eCommerce (ECOM 18).
 
 
 **Bibtex**:
