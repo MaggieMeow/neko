@@ -1,6 +1,6 @@
 # neko
 
-This is a supplementary material for [our publication to SIGIR ECOM'18 workshop](), where we redefine the classic product categorization task as a sequence generation task. 
+This is a supplementary material for [our publication to SIGIR ECOM'18 workshop](https://sigir-ecom.github.io/ecom18DCPapers/ecom18DC_paper_7.pdf), where we redefine the classic product categorization task as a sequence generation task. 
 
 This repository contains the following:
 
@@ -17,10 +17,9 @@ Our system achieved a balanced F-score of 0.8256, while the organizers’ baseli
 Cite
 ====
 
-
-```
-Yundi Maggie Li, Liling Tan, Stanley Kok and Ewa Szymanska. 2018. Unconstrained Production Categorization with Sequence-to-Sequence Models. In Proceedings of SIGIR 2018 Workshop on eCommerce (ECOM 18).
-```
+> Yundi Maggie Li, Liling Tan, Stanley Kok and Ewa Szymanska. 2018. 
+>  Unconstrained Production Categorization with Sequence-to-Sequence Models. 
+> In Proceedings of SIGIR 2018 Workshop on eCommerce (ECOM 18).
 
 
 **Bibtex**:
